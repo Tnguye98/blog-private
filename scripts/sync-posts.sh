@@ -1,0 +1,1 @@
+rsync -av --delete "/Users/tony/Library/CloudStorage/ProtonDrive-TNguye98@pm.me-folder/Obsidian/posts/" "/Users/tony/Library/CloudStorage/ProtonDrive-TNguye98@pm.me-folder/Github/blog-private/winwin-blog/content/posts"
